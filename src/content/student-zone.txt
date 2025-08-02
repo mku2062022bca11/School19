@@ -1,0 +1,77 @@
+Student Learning Hub - Your Gateway to Academic Success
+
+STUDENT PORTAL FEATURES:
+Access your personalized learning dashboard with student ID and password
+Real-time access to assignments, grades, and academic progress
+Digital homework submission and tracking system
+Online results and report card access
+Teacher communication portal
+
+WEEKLY TIMETABLE STRUCTURE:
+Monday-Friday: 8:00 AM - 3:30 PM (Regular Classes)
+Break Time: 11:00 AM - 11:30 AM (All grades)
+Lunch Break: 12:30 PM - 1:15 PM (Grades 3+)
+After-school Activities: 3:30 PM - 5:00 PM
+
+SAMPLE DAILY SCHEDULE:
+8:00 AM - Mathematics/English/Science
+9:00 AM - English/Mathematics/Physical Ed
+10:00 AM - Science/Social Studies/Mathematics  
+11:00 AM - BREAK
+11:30 AM - Social Studies/Science/English
+12:30 PM - Physical Ed/Arts/Computer/Music/Library
+
+E-LEARNING PLATFORMS:
+Google Classroom: Access assignments, submit work, collaborate with teachers
+Khan Academy: Personalized learning dashboard with practice exercises
+Virtual Labs: Interactive science experiments and simulations
+Digital Library: Access thousands of e-books and research materials
+
+HOMEWORK PORTAL:
+Quick assignment submission system
+Subject-wise homework tracking
+Deadline reminders and notifications
+Teacher feedback and grading system
+Progress analytics for students and parents
+
+ONLINE RESULTS ACCESS:
+Step 1: Login with your student ID and password
+Step 2: Navigate to the "Results" section
+Step 3: Select the desired exam or assessment
+Step 4: Download or view your results online
+
+ACADEMIC SUPPORT:
+Latest Report Card access
+Mid-term results review
+Progress tracking system
+Performance analytics
+Grade improvement recommendations
+
+CLASS TEACHER SUPPORT:
+Direct communication with class teachers
+Academic guidance and counseling
+Study schedule assistance
+Doubt clearing sessions
+Parent-teacher coordination
+
+DIGITAL RESOURCES:
+Interactive learning modules
+Educational video content  
+Online practice tests
+Subject-wise study materials
+Career guidance resources
+
+STUDENT SERVICES:
+Technical support for digital platforms
+Academic counseling services
+Study group coordination
+Peer learning opportunities
+Educational workshop access
+
+LOGIN INSTRUCTIONS:
+Use your unique student ID (provided during admission)
+Default password: Date of birth (DDMMYYYY format)
+Change password after first login for security
+Contact IT support for login issues: support@everlight.edu
+
+"Your education, your progress, your future - all accessible at your fingertips through our comprehensive student portal."
